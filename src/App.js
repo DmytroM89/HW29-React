@@ -4,7 +4,7 @@ import Employees from "./Employees/Employees";
 
 function App() {
   return (
-      <div className={'wrapper'}>
+      <div className="wrapper">
         <Employees></Employees>
       </div>
   );
